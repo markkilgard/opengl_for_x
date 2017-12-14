@@ -1,0 +1,19 @@
+
+Welcome to the "Programming OpenGL for the X Window System" Motif-based
+example source code.  The following table names each example program
+directory and what section of the book discusses the example.
+
+Section        Example directory
+----------     ------------------
+  3.2.1          glw
+  3.4            paperplane
+  6.2.9.1        new_xt_tablet (needs X11R6.1 or IRIX 6.2)
+  6.2.9.2        old_xt_tablet
+  7              molview
+
+I've tried to make the Makefiles as simple and as portable as
+possible.  If you find problems with these examples, please report bugs
+to mjk@sgi.com
+
+- Mark Kilgard
+

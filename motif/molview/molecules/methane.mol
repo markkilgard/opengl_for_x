@@ -1,0 +1,8 @@
+; description of methane, CH4
+Carbon =    1.5 (.5,.5,.5)
+Hydrogen =  0.9 (1.,1.,1.)
+Carbon:     0.257  -0.363   0.000
+Hydrogen:   0.257   0.727   0.000
+Hydrogen:   0.771  -0.727   0.890  
+Hydrogen:   0.771  -0.727  -0.890  
+Hydrogen:  -0.771  -0.727   0.000
